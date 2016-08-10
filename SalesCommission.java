@@ -1,3 +1,4 @@
+package sales
 import java.util.Scanner;
 
 
