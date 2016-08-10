@@ -17,7 +17,10 @@ public static void main(String[] args) {
 
   Date d1 = new Date(date, month, year);
   d1.displayDate();
-
+// using getter and setter
+  date = 12;
+  month = 8;
+  year = 1997;
 
   Date d2 = new Date();
   d2.setDate(date);
